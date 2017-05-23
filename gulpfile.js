@@ -1,7 +1,7 @@
 var gulp    = require("gulp"),
     minCss  = require("gulp-minify-css"),
     minHtml = require("gulp-minify-html"),
-    sass    = require("gulp-sass")
+    sass    = require("gulp-sass");
 
 gulp.task("minified-html", function(){   
     gulp.src('./source/*.html')
