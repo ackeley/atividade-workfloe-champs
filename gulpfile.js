@@ -17,6 +17,6 @@ gulp.task("minified-css", function(){
 });
 
 gulp.task("background", function(){
-    gulp.watch('./source/css/*', ['minified-css']);
+    gulp.watch('./source/css/*.css', ['minified-css']);
     gulp.watch('./source/*.html', ['minified-html']);
 }); 
