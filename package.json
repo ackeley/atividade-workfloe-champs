@@ -21,9 +21,10 @@
     "url": "https://github.com/ackeley/atividade-workfloe-champs/issues"
   },
   "homepage": "https://github.com/ackeley/atividade-workfloe-champs#readme",
-  "devDependencies": {    
+  "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-minify-css": "^1.2.4",
-    "gulp-minify-html": "^1.0.6"   
+    "gulp-minify-html": "^1.0.6",
+    "gulp-sass": "^3.1.0"
   }
 }
