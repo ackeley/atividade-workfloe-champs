@@ -1,0 +1,29 @@
+{
+  "name": "atividade-workfloe-champs",
+  "version": "1.0.0",
+  "description": "Curso certificação bootstrap workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ackeley/atividade-workfloe-champs.git"
+  },
+  "keywords": [
+    "champs",
+    "bootstrap",
+    "certificação"
+  ],
+  "author": "Ackeley Lennon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ackeley/atividade-workfloe-champs/issues"
+  },
+  "homepage": "https://github.com/ackeley/atividade-workfloe-champs#readme",
+  "devDependencies": {    
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",   
+  }
+}
